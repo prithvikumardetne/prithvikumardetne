@@ -1,5 +1,5 @@
 **Hello! This is Prithvi Kumar Detne!!**
-          **DevOps Evangelist**
+          **DevOps and Cloud Evangelist**
 
 - 🌱 I’m currently learning Python and Azure Cloud
 - 👨‍💻 All of my projects are available at https://github.com/prithvikumardetne
