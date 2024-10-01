@@ -9,17 +9,17 @@
 - 📫 How to reach me: prithvikumar.detne@gmail.com
 
 
-- **Programming Languages: Python, Bash Scripting**
-**• Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker**
-**• CI/CD: Jenkins, Azure DevOps**
-**• Project Management: Confluence, Slack, Jira**
-**• Version Control & IDEs: GitHub, BitBucket, VS Code, GITlab, GIT**
-**• IaC and Configuration Management: Terraform and Ansible**
-**• Build & Testing: Selenium, Maven, Postman**
-**• Monitoring: ELK,Splunk, Prometheus, Grafana, Nagios, NewRelic,Dynatrace**
-**• Artifactory: GitHub Packages, JFrog**
-**• Streaming Tools: Kafka**
-**• Other Tools: CURL, Jq**
+- Programming Languages: Python, Bash Scripting
+- Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker
+- CI/CD: Jenkins, Azure DevOps
+- Project Management: Confluence, Slack, Jira
+- Version Control & IDEs: GitHub, BitBucket, VS Code, GITlab, GIT
+- IaC and Configuration Management: Terraform and Ansible
+- Build & Testing: Selenium, Maven, Postman
+- Monitoring: ELK,Splunk, Prometheus, Grafana, Nagios, NewRelic,Dynatrace
+- Artifactory: GitHub Packages, JFrog
+- Streaming Tools: Kafka
+- Other Tools: CURL, Jq
 
 <!--
 **prithvikumardetne/prithvikumardetne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
