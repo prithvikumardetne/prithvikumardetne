@@ -1,5 +1,5 @@
-**Hello! This is Prithvi Kumar Detne!!
-DevOps Evangelist$${\color{green}Green}$$**
+**Hello! This is Prithvi Kumar Detne!!**
+          **DevOps Evangelist**
 
 
 
