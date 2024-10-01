@@ -1,5 +1,5 @@
-                                                                                        Hello! This is Prithvi Kumar Detne
-                                                                                        DevOps Evangelist
+                        Hello! This is Prithvi Kumar Detne
+                        DevOps Evangelist
 
 <!--
 **prithvikumardetne/prithvikumardetne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
