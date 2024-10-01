@@ -8,7 +8,8 @@
 - 📝 Baby Steps into articles : https://prithvikumardetne.hashnode.dev/
 - 📫 How to reach me: prithvikumar.detne@gmail.com
 
-**• Programming Languages: Python, Bash Scripting**
+
+- **Programming Languages: Python, Bash Scripting**
 **• Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker**
 **• CI/CD: Jenkins, Azure DevOps**
 **• Project Management: Confluence, Slack, Jira**
