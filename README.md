@@ -2,6 +2,9 @@
           **DevOps Evangelist**
 
 
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Kubernetes and Terraform
+- 📫 How to reach me: prithvikumar.detne@gmail.com
 
 
 
