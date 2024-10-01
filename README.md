@@ -2,8 +2,10 @@
           **DevOps Evangelist**
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Azure Cloud
+- 👨‍💻 All of my projects are available at https://github.com/prithvikumardetne
 - 💬 Ask me about Kubernetes and Terraform
+- 📝 Baby Steps into articles : https://prithvikumardetne.hashnode.dev/
 - 📫 How to reach me: prithvikumar.detne@gmail.com
 
 
