@@ -1,13 +1,14 @@
 **Hello! This is Prithvi Kumar Detne!!**
           **DevOps Evangelist**
 
-========================================================================
 - 🌱 I’m currently learning Python and Azure Cloud
 - 👨‍💻 All of my projects are available at https://github.com/prithvikumardetne
 - 💬 Ask me about Kubernetes and Terraform
 - 📝 Baby Steps into articles : https://prithvikumardetne.hashnode.dev/
 - 📫 How to reach me: prithvikumar.detne@gmail.com
-========================================================================
+
+**Tools and Technologies:**
+
 - Programming Languages: Python, Bash Scripting
 - Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker
 - CI/CD: Jenkins, Azure DevOps
