@@ -8,6 +8,9 @@
 - 📝 Baby Steps into articles : https://prithvikumardetne.hashnode.dev/
 - 📫 How to reach me: prithvikumar.detne@gmail.com
 
+Languages and Tools : 
+aws azure bash docker elasticsearch gcp git grafana java jenkins kibana kubernetes linux mongodb mysql nginx oracle php postgresql python rabbitMQ selenium
+
 
 
 <!--
