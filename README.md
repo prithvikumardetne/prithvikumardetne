@@ -11,8 +11,8 @@
 
 - Programming Languages: Python, Bash Scripting
 - Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker
-- CI/CD: Jenkins, Azure DevOps, Harness
-- Project Management: Confluence, Slack, Jira
+- CI/CD: Jenkins, Azure DevOps, Harness, Udeploy
+- Project Management: Confluence, Slack, Jira, CA Agile Central
 - Version Control & IDEs: GitHub, BitBucket, VS Code, GITlab, GIT
 - IaC and Configuration Management: Terraform and Ansible
 - Build & Testing: Selenium, Maven, Postman
