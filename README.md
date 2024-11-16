@@ -10,7 +10,7 @@
 **Tools and Technologies:**
 
 - Programming Languages: Python, Bash Scripting
-- Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker
+- Cloud and Containerisation: AWS, GCP, Azure, Kubernetes, Docker, OpenShift
 - CI/CD: Jenkins, Azure DevOps, Harness, Udeploy
 - Project Management: Confluence, Slack, Jira, CA Agile Central
 - Version Control & IDEs: GitHub, BitBucket, VS Code, GITlab, GIT
