@@ -1,7 +1,7 @@
 **Hello! This is Prithvi Kumar Detne!!**
           **DevOps and Cloud Evangelist**
 
-- 🌱 I’m currently learning Python and KUbernetes
+- 🌱 I’m currently learning Python and Kubernetes
 - 👨‍💻 All of my projects are available at https://github.com/prithvikumardetne
 - 💬 Ask me about Kubernetes and Terraform
 - 📝 Baby Steps into articles : https://prithvikumardetne.hashnode.dev/
